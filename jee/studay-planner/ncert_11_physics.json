@@ -1,0 +1,233 @@
+{
+    "Units and Measurements": {
+        "Topics": {
+            "Introduction": [],
+            "The International System of Units": [],
+            "Significant Figures": [],
+            "Dimensions of Physical Quantities": [],
+            "Dimensional Formulae and Dimensional Equations": [],
+            "Dimensional Analysis and its Applications": []
+        },
+        "Exercises": {
+            "Exercise 1.1": [],
+            "Exercise 1.2": []
+        }
+    },
+    "Motion in a Straight Line": {
+        "Topics": {
+            "Introduction": [],
+            "Instantaneous Velocity and Speed": [],
+            "Acceleration": [],
+            "Kinematic Equations for Uniformly Accelerated Motion": []
+        },
+        "Exercises": {
+            "Exercise 2.1": [],
+            "Exercise 2.2": []
+        }
+    },
+    "Motion in a Plane": {
+        "Topics": {
+            "Introduction": [],
+            "Scalars and Vectors": [],
+            "Multiplication of Vectors by Real Numbers": [],
+            "Addition and Subtraction of Vectors – Graphical Method": [],
+            "Resolution of Vectors": [],
+            "Vector Addition – Analytical Method": [],
+            "Motion in a Plane": [],
+            "Motion in a Plane with Constant Acceleration": [],
+            "Projectile Motion": [],
+            "Uniform Circular Motion": []
+        },
+        "Exercises": {
+            "Exercise 3.1": [],
+            "Exercise 3.2": []
+        }
+    },
+    "Laws of Motion": {
+        "Topics": {
+            "Introduction": [],
+            "Aristotle’s Fallacy": [],
+            "The Law of Inertia": [],
+            "Newton’s First Law of Motion": [],
+            "Newton’s Second Law of Motion": [],
+            "Newton’s Third Law of Motion": [],
+            "Conservation of Momentum": [],
+            "Equilibrium of a Particle": [],
+            "Common Forces in Mechanics": [],
+            "Circular Motion": [],
+            "Solving Problems in Mechanics": []
+        },
+        "Exercises": {
+            "Exercise 4.1": [],
+            "Exercise 4.2": []
+        }
+    },
+    "Work, Energy and Power": {
+        "Topics": {
+            "Introduction": [],
+            "Notions of Work and Kinetic Energy": [],
+            "Work": [],
+            "Kinetic Energy": [],
+            "Work Done by a Variable Force": [],
+            "The Work-Energy Theorem for a Variable Force": [],
+            "The Concept of Potential Energy": [],
+            "The Conservation of Mechanical Energy": [],
+            "The Potential Energy of a Spring": [],
+            "Power": [],
+            "Collisions": []
+        },
+        "Exercises": {
+            "Exercise 5.1": [],
+            "Exercise 5.2": []
+        }
+    },
+    "System of Particles and Rotational Motion": {
+        "Topics": {
+            "Introduction": [],
+            "Centre of Mass": [],
+            "Motion of Centre of Mass": [],
+            "Linear Momentum of a System of Particles": [],
+            "Vector Product of Two Vectors": [],
+            "Angular Velocity and its Relation with Linear Velocity": [],
+            "Torque and Angular Momentum": [],
+            "Equilibrium of a Rigid Body": [],
+            "Moment of Inertia": [],
+            "Kinematics of Rotational Motion about a Fixed Axis": [],
+            "Dynamics of Rotational Motion about a Fixed Axis": [],
+            "Angular Momentum in Case of Rotations about a Fixed Axis": []
+        },
+        "Exercises": {
+            "Exercise 6.1": [],
+            "Exercise 6.2": []
+        }
+    },
+    "Gravitation": {
+        "Topics": {
+            "Introduction": [],
+            "Kepler’s Laws": [],
+            "Universal Law of Gravitation": [],
+            "The Gravitational Constant": [],
+            "Acceleration Due to Gravity of the Earth": [],
+            "Acceleration Due to Gravity Below and Above the Surface of Earth": [],
+            "Gravitational Potential Energy": [],
+            "Escape Speed": [],
+            "Earth Satellites": [],
+            "Energy of an Orbiting Satellite": []
+        },
+        "Exercises": {
+            "Exercise 7.1": [],
+            "Exercise 7.2": []
+        }
+    },
+    "Mechanical Properties of Solids": {
+        "Topics": {
+            "Introduction": [],
+            "Stress and Strain": [],
+            "Hooke’s Law": [],
+            "Stress-Strain Curve": [],
+            "Elastic Moduli": [],
+            "Applications of Elastic Behaviour of Materials": []
+        },
+        "Exercises": {
+            "Exercise 8.1": [],
+            "Exercise 8.2": []
+        }
+    },
+    "Mechanical Properties of Fluids": {
+        "Topics": {
+            "Introduction": [],
+            "Pressure": [],
+            "Streamline Flow": [],
+            "Bernoulli’s Principle": [],
+            "Viscosity": [],
+            "Surface Tension": []
+        },
+        "Exercises": {
+            "Exercise 9.1": [],
+            "Exercise 9.2": []
+        }
+    },
+    "Thermal Properties of Matter": {
+        "Topics": {
+            "Introduction": [],
+            "Temperature and Heat": [],
+            "Measurement of Temperature": [],
+            "Ideal-Gas Equation and Absolute Temperature": [],
+            "Thermal Expansion": [],
+            "Specific Heat Capacity": [],
+            "Calorimetry": [],
+            "Change of State": [],
+            "Heat Transfer": [],
+            "Newton’s Law of Cooling": []
+        },
+        "Exercises": {
+            "Exercise 10.1": [],
+            "Exercise 10.2": []
+        }
+    },
+    "Thermodynamics": {
+        "Topics": {
+            "Introduction": [],
+            "Thermal Equilibrium": [],
+            "Zeroth Law of Thermodynamics": [],
+            "Heat, Internal Energy and Work": [],
+            "First Law of Thermodynamics": [],
+            "Specific Heat Capacity": [],
+            "Thermodynamic State Variables and Equation of State": [],
+            "Thermodynamic Processes": [],
+            "Second Law of Thermodynamics": [],
+            "Reversible and Irreversible Processes": [],
+            "Carnot Engine": []
+        },
+        "Exercises": {
+            "Exercise 11.1": [],
+            "Exercise 11.2": []
+        }
+    },
+    "Kinetic Theory": {
+        "Topics": {
+            "Introduction": [],
+            "Molecular Nature of Matter": [],
+            "Behaviour of Gases": [],
+            "Kinetic Theory of an Ideal Gas": [],
+            "Law of Equipartition of Energy": [],
+            "Specific Heat Capacity": [],
+            "Mean Free Path": []
+        },
+        "Exercises": {
+            "Exercise 12.1": [],
+            "Exercise 12.2": []
+        }
+    },
+    "Oscillations": {
+        "Topics": {
+            "Introduction": [],
+            "Periodic and Oscillatory Motions": [],
+            "Simple Harmonic Motion": [],
+            "Simple Harmonic Motion and Uniform Circular Motion": [],
+            "Velocity and Acceleration in Simple Harmonic Motion": [],
+            "Force Law for Simple Harmonic Motion": [],
+            "Energy in Simple Harmonic Motion": [],
+            "The Simple Pendulum": []
+        },
+        "Exercises": {
+            "Exercise 13.1": [],
+            "Exercise 13.2": []
+        }
+    },
+    "Waves": {
+        "Topics": {
+            "Introduction": [],
+            "Transverse and Longitudinal Waves": [],
+            "Displacement Relation in a Progressive Wave": [],
+            "The Speed of a Travelling Wave": [],
+            "The Principle of Superposition of Waves": [],
+            "Reflection of Waves": [],
+            "Beats": []
+        },
+        "Exercises": {
+            "Exercise 14.1": [],
+            "Exercise 14.2": []
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "Relations and Functions": {
+        "Topics": {
+            "Introduction": [],
+            "Types of Relations": [],
+            "Types of Functions": [],
+            "Composition of Functions and Invertible Function": []
+        },
+        "Exercises": {
+            "Exercise 1.1": [],
+            "Exercise 1.2": [],
+            "Exercise 1.3": []
+        }
+    },
+    "Inverse Trigonometric Functions": {
+        "Topics": {
+            "Introduction": [],
+            "Basic Concepts": [],
+            "Properties of Inverse Trigonometric Functions": []
+        },
+        "Exercises": {
+            "Exercise 2.1": [],
+            "Exercise 2.2": []
+        }
+    },
+    "Matrices": {
+        "Topics": {
+            "Introduction": [],
+            "Matrix": [],
+            "Types of Matrices": [],
+            "Operations on Matrices": [],
+            "Transpose of a Matrix": [],
+            "Symmetric and Skew Symmetric Matrices": [],
+            "Invertible Matrices": []
+        },
+        "Exercises": {
+            "Exercise 3.1": [],
+            "Exercise 3.2": [],
+            "Exercise 3.3": []
+        }
+    },
+    "Determinants": {
+        "Topics": {
+            "Introduction": [],
+            "Determinant": [],
+            "Area of a Triangle": [],
+            "Minors and Cofactors": [],
+            "Adjoint and Inverse of a Matrix": [],
+            "Applications of Determinants and Matrices": []
+        },
+        "Exercises": {
+            "Exercise 4.1": [],
+            "Exercise 4.2": []
+        }
+    },
+    "Continuity and Differentiability": {
+        "Topics": {
+            "Introduction": [],
+            "Continuity": [],
+            "Differentiability": [],
+            "Exponential and Logarithmic Functions": [],
+            "Logarithmic Differentiation": [],
+            "Derivatives of Functions in Parametric Forms": [],
+            "Second Order Derivative": []
+        },
+        "Exercises": {
+            "Exercise 5.1": [],
+            "Exercise 5.2": []
+        }
+    },
+    "Application of Derivatives": {
+        "Topics": {
+            "Introduction": [],
+            "Rate of Change of Quantities": [],
+            "Increasing and Decreasing Functions": [],
+            "Maxima and Minima": []
+        },
+        "Exercises": {
+            "Exercise 6.1": [],
+            "Exercise 6.2": []
+        }
+    },
+    "Integrals": {
+        "Topics": {
+            "Introduction": [],
+            "Integration as an Inverse Process of Differentiation": [],
+            "Methods of Integration": [],
+            "Integrals of Some Particular Functions": [],
+            "Integration by Partial Fractions": [],
+            "Integration by Parts": [],
+            "Definite Integral": [],
+            "Fundamental Theorem of Calculus": [],
+            "Evaluation of Definite Integrals by Substitution": [],
+            "Some Properties of Definite Integrals": []
+        },
+        "Exercises": {
+            "Exercise 7.1": [],
+            "Exercise 7.2": [],
+            "Exercise 7.3": [],
+            "Exercise 7.4": [],
+            "Exercise 7.5": [],
+            "Exercise 7.6": []
+        }
+    },
+    "Application of Integrals": {
+        "Topics": {
+            "Introduction": [],
+            "Area under Simple Curves": []
+        },
+        "Exercises": {
+            "Exercise 8.1": [],
+            "Exercise 8.2": []
+        }
+    },
+    "Differential Equations": {
+        "Topics": {
+            "Introduction": [],
+            "Basic Concepts": [],
+            "General and Particular Solutions of a Differential Equation": [],
+            "Methods of Solving First Order, First Degree Differential Equations": []
+        },
+        "Exercises": {
+            "Exercise 9.1": [],
+            "Exercise 9.2": []
+        }
+    },
+    "Vector Algebra": {
+        "Topics": {
+            "Introduction": [],
+            "Some Basic Concepts": [],
+            "Types of Vectors": [],
+            "Addition of Vectors": [],
+            "Multiplication of a Vector by a Scalar": [],
+            "Product of Two Vectors": []
+        },
+        "Exercises": {
+            "Exercise 10.1": [],
+            "Exercise 10.2": []
+        }
+    },
+    "Three Dimensional Geometry": {
+        "Topics": {
+            "Introduction": [],
+            "Direction Cosines and Direction Ratios of a Line": [],
+            "Equation of a Line in Space": [],
+            "Angle between Two Lines": [],
+            "Shortest Distance between Two Lines": []
+        },
+        "Exercises": {
+            "Exercise 11.1": [],
+            "Exercise 11.2": []
+        }
+    },
+    "Linear Programming": {
+        "Topics": {
+            "Introduction": [],
+            "Linear Programming Problem and its Mathematical Formulation": []
+        },
+        "Exercises": {
+            "Exercise 12.1": [],
+            "Exercise 12.2": []
+        }
+    },
+    "Probability": {
+        "Topics": {
+            "Introduction": [],
+            "Conditional Probability": [],
+            "Multiplication Theorem on Probability": [],
+            "Independent Events": [],
+            "Bayes' Theorem": []
+        },
+        "Exercises": {
+            "Exercise 13.1": [],
+            "Exercise 13.2": []
+        }
+    }
+}

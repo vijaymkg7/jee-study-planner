@@ -1,0 +1,150 @@
+{
+    "Some Basic Concepts of Chemistry": {
+        "Topics": {
+            "Importance of Chemistry": [],
+            "Nature of Matter": [],
+            "Properties of Matter and their Measurement": [],
+            "Uncertainty in Measurement": [],
+            "Laws of Chemical Combinations": [],
+            "Dalton’s Atomic Theory": [],
+            "Atomic and Molecular Masses": [],
+            "Mole Concept and Molar Masses": [],
+            "Percentage Composition": [],
+            "Stoichiometry and Stoichiometric Calculations": []
+        },
+        "Exercises": {
+            "Exercise 1.1": [],
+            "Exercise 1.2": []
+        }
+    },
+    "Structure of Atom": {
+        "Topics": {
+            "Discovery of Sub-atomic Particles": [],
+            "Atomic Models": [],
+            "Developments Leading to the Bohr’s Model of Atom": [],
+            "Bohr’s Model for Hydrogen Atom": [],
+            "Towards Quantum Mechanical Model of the Atom": [],
+            "Quantum Mechanical Model of Atom": []
+        },
+        "Exercises": {
+            "Exercise 2.1": [],
+            "Exercise 2.2": []
+        }
+    },
+    "Classification of Elements and Periodicity in Properties": {
+        "Topics": {
+            "Why do we Need to Classify Elements?": [],
+            "Genesis of Periodic Classification": [],
+            "Modern Periodic Law and the Present Form of the Periodic Table": [],
+            "Nomenclature of Elements with Atomic Numbers > 100": [],
+            "Electronic Configurations of Elements and the Periodic Table": [],
+            "Electronic Configurations and Types of Elements: s-, p-, d-, f- Blocks": [],
+            "Periodic Trends in Properties of Elements": []
+        },
+        "Exercises": {
+            "Exercise 3.1": [],
+            "Exercise 3.2": []
+        }
+    },
+    "Chemical Bonding and Molecular Structure": {
+        "Topics": {
+            "Kössel-Lewis Approach to Chemical Bonding": [],
+            "Ionic or Electrovalent Bond": [],
+            "Bond Parameters": [],
+            "The Valence Shell Electron Pair Repulsion (VSEPR) Theory": [],
+            "Valence Bond Theory": [],
+            "Hybridisation": [],
+            "Molecular Orbital Theory": [],
+            "Bonding in Some Homonuclear Diatomic Molecules": [],
+            "Hydrogen Bonding": []
+        },
+        "Exercises": {
+            "Exercise 4.1": [],
+            "Exercise 4.2": []
+        }
+    },
+    "Thermodynamics": {
+        "Topics": {
+            "Thermodynamic Terms": [],
+            "Applications": [],
+            "Measurement of ∆U and ∆H: Calorimetry": [],
+            "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy": [],
+            "Enthalpies for Different Types of Reactions": [],
+            "Spontaneity": [],
+            "Gibbs Energy Change and Equilibrium": []
+        },
+        "Exercises": {
+            "Exercise 5.1": [],
+            "Exercise 5.2": []
+        }
+    },
+    "Equilibrium": {
+        "Topics": {
+            "Equilibrium in Physical Processes": [],
+            "Equilibrium in Chemical Processes – Dynamic Equilibrium": [],
+            "Law of Chemical Equilibrium and Equilibrium Constant": [],
+            "Homogeneous Equilibria": [],
+            "Heterogeneous Equilibria": [],
+            "Applications of Equilibrium Constants": [],
+            "Relationship between Equilibrium Constant K, Reaction Quotient Q and Gibbs Energy G": [],
+            "Factors Affecting Equilibria": [],
+            "Ionic Equilibrium in Solution": [],
+            "Acids, Bases and Salts": [],
+            "Ionization of Acids and Bases": [],
+            "Buffer Solutions": [],
+            "Solubility Equilibria of Sparingly Soluble Salts": []
+        },
+        "Exercises": {
+            "Exercise 6.1": [],
+            "Exercise 6.2": []
+        }
+    },
+    "Redox Reactions": {
+        "Topics": {
+            "Classical Idea of Redox Reactions - Oxidation and Reduction Reactions": [],
+            "Redox Reactions in Terms of Electron Transfer Reactions": [],
+            "Oxidation Number": []
+        },
+        "Exercises": {
+            "Exercise 7.1": [],
+            "Exercise 7.2": []
+        }
+    },
+    "Organic Chemistry – Some Basic Principles and Techniques": {
+        "Topics": {
+            "General Introduction": [],
+            "Tetravalence of Carbon: Shapes of Organic Compounds": [],
+            "Structural Representations of Organic Compounds": [],
+            "Classification of Organic Compounds": [],
+            "Nomenclature of Organic Compounds": [],
+            "Isomerism": [],
+            "Fundamental Concepts in Organic Reaction Mechanism": [],
+            "Methods of Purification of Organic Compounds": [],
+            "Qualitative Analysis of Organic Compounds": [],
+            "Quantitative Analysis": []
+        },
+        "Exercises": {
+            "Exercise 8.1": [],
+            "Exercise 8.2": []
+        }
+    },
+    "Hydrocarbons": {
+        "Topics": {
+            "Classification": [],
+            "Alkanes": [],
+            "Alkenes": [],
+            "Alkynes": [],
+            "Aromatic Hydrocarbons": [],
+            "Carcinogenicity and Toxicity": []
+        },
+        "Exercises": {
+            "Exercise 9.1": [],
+            "Exercise 9.2": []
+        }
+    },
+    "Appendices": {
+        "Topics": {
+            "Answers to Some Selected Problems": []
+        }
+    }
+}

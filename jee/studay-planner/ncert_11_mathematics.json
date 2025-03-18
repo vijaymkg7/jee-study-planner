@@ -1,0 +1,200 @@
+{
+    "Sets": {
+        "Topics": {
+            "Introduction": [],
+            "Sets and their Representations": [],
+            "The Empty Set": [],
+            "Finite and Infinite Sets": [],
+            "Equal Sets": [],
+            "Universal Set": [],
+            "Venn Diagrams": [],
+            "Operations on Sets": [],
+            "Complement of a Set": []
+        },
+        "Exercises": {
+            "Exercise 1.1": [],
+            "Exercise 1.2": []
+        }
+    },
+    "Relations and Functions": {
+        "Topics": {
+            "Introduction": [],
+            "Cartesian Product of Sets": [],
+            "Relations": [],
+            "Functions": []
+        },
+        "Exercises": {
+            "Exercise 2.1": [],
+            "Exercise 2.2": []
+        }
+    },
+    "Trigonometric Functions": {
+        "Topics": {
+            "Introduction": [],
+            "Angles": [],
+            "Trigonometric Functions": [],
+            "Trigonometric Functions of Sum and Difference of Two Angles": []
+        },
+        "Exercises": {
+            "Exercise 3.1": [],
+            "Exercise 3.2": []
+        }
+    },
+    "Complex Numbers and Quadratic Equations": {
+        "Topics": {
+            "Introduction": [],
+            "Complex Numbers": [],
+            "Algebra of Complex Numbers": [],
+            "The Modulus and the Conjugate of a Complex Number": [],
+            "Argand Plane and Polar Representation": []
+        },
+        "Exercises": {
+            "Exercise 4.1": [],
+            "Exercise 4.2": []
+        }
+    },
+    "Linear Inequalities": {
+        "Topics": {
+            "Introduction": [],
+            "Inequalities": [],
+            "Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation": []
+        },
+        "Exercises": {
+            "Exercise 5.1": [],
+            "Exercise 5.2": []
+        }
+    },
+    "Permutations and Combinations": {
+        "Topics": {
+            "Introduction": [],
+            "Fundamental Principle of Counting": [],
+            "Permutations": [],
+            "Combinations": []
+        },
+        "Exercises": {
+            "Exercise 6.1": [],
+            "Exercise 6.2": []
+        }
+    },
+    "Binomial Theorem": {
+        "Topics": {
+            "Introduction": [],
+            "Binomial Theorem for Positive Integral Indices": []
+        },
+        "Exercises": {
+            "Exercise 7.1": [],
+            "Exercise 7.2": []
+        }
+    },
+    "Sequences and Series": {
+        "Topics": {
+            "Introduction": [],
+            "Sequences": [],
+            "Series": [],
+            "Geometric Progression (G.P.)": [],
+            "Relationship Between A.M. and G.M.": []
+        },
+        "Exercises": {
+            "Exercise 8.1": [],
+            "Exercise 8.2": []
+        }
+    },
+    "Straight Lines": {
+        "Topics": {
+            "Introduction": [],
+            "Slope of a Line": [],
+            "Various Forms of the Equation of a Line": [],
+            "Distance of a Point From a Line": []
+        },
+        "Exercises": {
+            "Exercise 9.1": [],
+            "Exercise 9.2": []
+        }
+    },
+    "Conic Sections": {
+        "Topics": {
+            "Introduction": [],
+            "Sections of a Cone": [],
+            "Circle": [],
+            "Parabola": [],
+            "Ellipse": [],
+            "Hyperbola": []
+        },
+        "Exercises": {
+            "Exercise 10.1": [],
+            "Exercise 10.2": []
+        }
+    },
+    "Introduction to Three Dimensional Geometry": {
+        "Topics": {
+            "Introduction": [],
+            "Coordinate Axes and Coordinate Planes in Three Dimensional Space": [],
+            "Coordinates of a Point in Space": [],
+            "Distance between Two Points": []
+        },
+        "Exercises": {
+            "Exercise 11.1": [],
+            "Exercise 11.2": []
+        }
+    },
+    "Limits and Derivatives": {
+        "Topics": {
+            "Introduction": [],
+            "Intuitive Idea of Derivatives": [],
+            "Limits": [],
+            "Limits of Trigonometric Functions": [],
+            "Derivatives": []
+        },
+        "Exercises": {
+            "Exercise 12.1": [],
+            "Exercise 12.2": []
+        }
+    },
+    "Statistics": {
+        "Topics": {
+            "Introduction": [],
+            "Measures of Dispersion": [],
+            "Range": [],
+            "Mean Deviation": [],
+            "Variance and Standard Deviation": []
+        },
+        "Exercises": {
+            "Exercise 13.1": [],
+            "Exercise 13.2": []
+        }
+    },
+    "Probability": {
+        "Topics": {
+            "Event": [],
+            "Axiomatic Approach to Probability": []
+        },
+        "Exercises": {
+            "Exercise 14.1": [],
+            "Exercise 14.2": []
+        }
+    },
+    "Appendix 1: Infinite Series": {
+        "Topics": {
+            "Introduction": [],
+            "Binomial Theorem for any Index": [],
+            "Infinite Geometric Series": [],
+            "Exponential Series": [],
+            "Logarithmic Series": []
+        },
+        "Exercises": {
+            "Exercise A.1": [],
+            "Exercise A.2": []
+        }
+    },
+    "Appendix 2: Mathematical Modelling": {
+        "Topics": {
+            "Introduction": [],
+            "Preliminaries": [],
+            "What is Mathematical Modelling": []
+        },
+        "Exercises": {
+            "Exercise A.3": [],
+            "Exercise A.4": []
+        }
+    }
+}
