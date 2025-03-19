@@ -1,0 +1,216 @@
+{
+  "Class 12": {
+    "Mathematics": {
+      "Integrals": {
+        "Exercise 7.1": {
+          "Find an anti derivative (or integral) of the following functions by the method of inspection.": {
+            "1": "sin 2x",
+            "2": "cos 3x",
+            "3": "e^(2x)",
+            "4": "(ax + b)^2",
+            "5": "sin 2x - 4e^(3x)"
+          },
+          "Find the following integrals in Exercises 6 to 20:": {
+            "6": "∫ (4e^(3x) + 1) dx",
+            "7": "∫ x^2 (1 - 1/x^2) dx",
+            "8": "∫ (ax^2 + bx + c) dx",
+            "9": "∫ (2x^2 + e^x) dx",
+            "10": "∫ (√x - 1/√x)^2 dx",
+            "11": "∫ (x^3 + 5x^2 - 4) / x^2 dx",
+            "12": "∫ (x^3 + 3x + 4) / √x dx",
+            "13": "∫ (x^3 - x^2 + x - 1) / (x - 1) dx",
+            "14": "∫ (1 - x) √x dx",
+            "15": "∫ √x (3x^2 + 2x + 3) dx",
+            "16": "∫ (2x - 3cos x + e^x) dx",
+            "17": "∫ (2x^2 - 3sin x + 5√x) dx",
+            "18": "∫ sec x (sec x + tan x) dx",
+            "19": "∫ sec^2 x / cosec^2 x dx",
+            "20": "∫ (2 - 3sin x) / cos^2 x dx"
+          },
+          "Choose the correct answer in Exercises 21 and 22.": {
+            "21": "The anti derivative of (√x + 1/√x) equals (A) 2/3 x^(3/2) + 2 x^(1/2) + C (B) 3/2 x^(3/2) + 1/2 x^(1/2) + C (C) 2/3 x^(3/2) + 1/2 x^(1/2) + C (D) 2/3 x^(3/2) + 2 x^(1/2) + C",
+            "22": "If d/dx f(x) = 4x^3 - 3/x^4 such that f(2) = 0. Then f(x) is (A) x^4 + 1/x^3 - 129/8 (B) x^3 + 1/x^4 + 129/8 (C) x^4 + 1/x^3 + 129/8 (D) x^3 + 1/x^4 - 129/8"
+          }
+        },
+        "Exercise 7.2": {
+          "Integrate the functions in Exercises 1 to 37:": {
+            "1": "2x / (1 + x^2)",
+            "2": "(log x)^2 / x",
+            "3": "1 / (x + x log x)",
+            "4": "sin x sin (cos x)",
+            "5": "sin (ax + b) cos (ax + b)",
+            "6": "√(ax + b)",
+            "7": "x √(x + 2)",
+            "8": "x √(1 + 2x^2)",
+            "9": "(4x + 2) √(x^2 + x + 1)",
+            "10": "1 / (x - √x)",
+            "11": "x / √(x + 4)",
+            "12": "(x^3 - 1)^(1/3) x^5",
+            "13": "x^2 / (2 + 3x^3)^3",
+            "14": "1 / (x (log x)^m), x > 0, m ≠ 1",
+            "15": "x / (9 - 4x^2)",
+            "16": "e^(2x + 3)",
+            "17": "x / e^(x^2)",
+            "18": "e^(tan^(-1) x) / (1 + x^2)",
+            "19": "e^(2x) - 1 / e^(2x) + 1",
+            "20": "(e^(2x) - e^(-2x)) / (e^(2x) + e^(-2x))",
+            "21": "tan^2 (2x - 3)",
+            "22": "sec^2 (7 - 4x)",
+            "23": "(sin^(-1) x) / √(1 - x^2)",
+            "24": "(2 cos x - 3 sin x) / (6 cos x + 4 sin x)",
+            "25": "1 / cos^2 x (1 - tan x)^2",
+            "26": "√tan x / sin x cos x",
+            "27": "√sin 2x cos 2x",
+            "28": "cos x / √(1 + sin x)",
+            "29": "cot x log sin x",
+            "30": "sin x / (1 + cos x)",
+            "31": "sin x / (1 + cos x)^2",
+            "32": "1 / (1 + cot x)",
+            "33": "1 / (1 - tan x)",
+            "34": "√tan x / (sin x cos x)",
+            "35": "(1 + log x)^2 / x",
+            "36": "(x + 1) (x + log x)^2 / x",
+            "37": "(x^3 sin (tan^(-1) x^4)) / (1 + x^8)"
+          },
+          "Choose the correct answer in Exercises 38 and 39.": {
+            "38": "∫ (10x^9 + 10^x log 10) / (x^10 + 10^x) dx equals (A) 10^x - x^10 + C (B) 10^x + x^10 + C (C) (10^x - x^10)^-1 + C (D) log (10^x + x^10) + C",
+            "39": "∫ dx / (sin^2 x cos^2 x) equals (A) tan x + cot x + C (B) tan x - cot x + C (C) tan x cot x + C (D) tan x - cot 2x + C"
+          }
+        },
+        "Exercise 7.3": {
+          "Find the integrals of the functions in Exercises 1 to 22:": {
+            "1": "sin^2 (2x + 5)",
+            "2": "sin 3x cos 4x",
+            "3": "cos 2x cos 4x cos 6x",
+            "4": "sin^3 (2x + 1)",
+            "5": "sin^3 x cos^3 x",
+            "6": "sin x sin 2x sin 3x",
+            "7": "sin 4x sin 8x",
+            "8": "(1 - cos x) / (1 + cos x)",
+            "9": "cos x / (1 + cos x)",
+            "10": "sin^4 x",
+            "11": "cos^4 2x",
+            "12": "sin^2 x / (1 + cos x)",
+            "13": "(cos 2x - cos 2α) / (cos x - cos α)",
+            "14": "(cos x - sin x) / (1 + sin 2x)",
+            "15": "tan^3 2x sec 2x",
+            "16": "tan^4 x",
+            "17": "(sin^3 x + cos^3 x) / (sin^2 x cos^2 x)",
+            "18": "(cos 2x + 2 sin^2 x) / cos^2 x",
+            "19": "1 / (sin x cos^3 x)",
+            "20": "cos 2x / (cos x + sin x)^2",
+            "21": "sin^(-1) (cos x)",
+            "22": "1 / (cos (x - a) cos (x - b))"
+          },
+          "Choose the correct answer in Exercises 23 and 24.": {
+            "23": "∫ (sin^2 x - cos^2 x) / (sin^2 x cos^2 x) dx is equal to (A) tan x + cot x + C (B) tan x + cosec x + C (C) - tan x + cot x + C (D) tan x + sec x + C",
+            "24": "∫ (e^x (1 + x)) / (cos^2 (e^x x)) dx equals (A) - cot (e^x) + C (B) tan (xe^x) + C (C) tan (e^x) + C (D) cot (e^x) + C"
+          }
+        },
+        "Exercise 7.4": {
+          "Integrate the functions in Exercises 1 to 23.": {
+            "1": "3x^2 / (x^6 + 1)",
+            "2": "1 / √(1 + 4x^2)",
+            "3": "1 / ((2 - x)^2 + 1)",
+            "4": "1 / √(9 - 25x^2)",
+            "5": "3x / (1 + 2x^4)",
+            "6": "1 / (1 - x^6)",
+            "7": "(x - 1) / √(x^2 + 9)",
+            "8": "x^2 / √(x^6 + a^6)",
+            "9": "sec^2 x / √(tan^2 x + 4)",
+            "10": "1 / √(x^2 + 2x + 2)",
+            "11": "1 / √(9x^2 + 6x + 5)",
+            "12": "1 / √(7 - 6x - x^2)",
+            "13": "1 / √((x - 1)(x - 2))",
+            "14": "1 / √(8 + 3x - x^2)",
+            "15": "1 / √((x - a)(x - b))",
+            "16": "(4x + 1) / √(2x^2 + x - 3)",
+            "17": "(x + 2) / √(x^2 - 1)",
+            "18": "(5x - 2) / (1 + 2x + 3x^2)",
+            "19": "(6x + 7) / √((x - 5)(x - 4))",
+            "20": "(x + 2) / √(4x - x^2)",
+            "21": "(x + 2) / √(x^2 + 2x + 3)",
+            "22": "(x + 3) / (x^2 - 2x - 5)",
+            "23": "(5x + 3) / √(x^2 + 4x + 10)"
+          }
+        },
+        "Exercise 7.5": {
+          "Integrate the rational functions in Exercises 1 to 21.": {
+            "1": "x / ((x + 1) (x + 2))",
+            "2": "1 / (x^2 - 9)",
+            "3": "(3x - 1) / ((x - 1) (x - 2) (x - 3))",
+            "4": "x / ((x - 1) (x - 2) (x - 3))",
+            "5": "(2x - x^2 + 3) / (x - 1) (x - 2)",
+            "6": "1 - x^2 / x (1 - 2x)",
+            "7": "x / ((x - 1) (x + 1)^2)",
+            "8": "x / ((x - 1)^2 (x + 2))",
+            "9": "(3x + 5) / (x^3 - x^2 - x + 1)",
+            "10": "(2x - 3) / (x^2 - 1) (2x + 3)",
+            "11": "5x / (x + 1) (x^2 - 4)",
+            "12": "x^3 + x + 1 / x^2 - 1",
+            "13": "1 / (x^2 - 9) (x + 2)",
+            "14": "x^2 + 1 / (x - 2) (x - 1)",
+            "15": "1 / (x^4 - 1)",
+            "16": "1 / (x (x^n + 1)) [Hint: multiply numerator and denominator by x^(n-1) and put x^n = t]",
+            "17": "cos x / (1 - sin x) (2 - sin x)) [Hint : Put sin x = t]",
+            "18": "(x^2 + 1) (x^2 + 2) / (x^2 + 3) (x^2 + 4)",
+            "19": "2x / (x^2 + 1) (x^2 + 3)",
+            "20": "1 / (x (x^4 - 1))",
+            "21": "1 / (e^x - 1) [Hint : Put e^x = t]"
+          },
+          "Choose the correct answer in each of the Exercises 22 and 23.": {
+            "22": "∫ x dx / ((x - 1) (x - 2)) equals (A) log |(x - 1) / (x - 2)| + C (B) log |(x - 2) / (x - 1)| + C (C) 2 log |(x - 2) / (x - 1)| + C (D) log |(x - 1) (x - 2)| + C",
+            "23": "∫ dx / (x (x^2 + 1)) equals (A) 1/2 log |x / (x^2 + 1)| + C (B) 1/2 log |x / (x^2 + 1)| + C (C) 1/2 log |(x^2 + 1) / x| + C (D) 1/2 log |x / (x^2 + 1)| + C"
+          }
+        },
+        "Exercise 7.6": {
+          "Integrate the functions in Exercises 1 to 22.": {
+            "1": "x sin x",
+            "2": "x sin 3x",
+            "3": "x^2 e^x",
+            "4": "x log x",
+            "5": "x log 2x",
+            "6": "x^2 log x",
+            "7": "x sin^(-1) x",
+            "8": "x tan^(-1) x",
+            "9": "x cos^(-1) x",
+            "10": "(sin^(-1) x)^2",
+            "11": "cos^(-1) (x) √(1 - x^2)",
+            "12": "x sec^2 x",
+            "13": "tan^(-1) x",
+            "14": "x (log x)^2",
+            "15": "(x^2 + 1) log x",
+            "16": "e^x (sin x + cos x)",
+            "17": "(x e^x) / (1 + x)^2",
+            "18": "e^x (1/x - 1/x^2)",
+            "19": "e^x (x - n) / (x + n)",
+            "20": "(x + 3) e^x / (x + 5)^2",
+            "21": "e^(2x) sin x",
+            "22": "sin^(-1) (2x / (1 + x^2))"
+          },
+          "Choose the correct answer in Exercises 23 and 24.": {
+            "23": "∫ x e^x dx equals (A) e^x (x - 1) + C (B) e^x (x + 1) + C (C) e^x (x - 1) + C (D) e^x x + C",
+            "24": "∫ e^x sec x (1 + tan x) dx equals (A) e^x cos x + C (B) e^x sec x + C (C) e^x sin x + C (D) e^x tan x + C"
+          }
+        },
+        "Exercise 7.7": {
+          "Integrate the functions in Exercises 1 to 9.": {
+            "1": "√(4 - x^2)",
+            "2": "√(1 - 4x^2)",
+            "3": "√(x^2 + 4x + 6)",
+            "4": "√(x^2 + 4x + 1)",
+            "5": "√(1 - 4x - x^2)",
+            "6": "√(x^2 - 4x - 5)",
+            "7": "√(1 + 3x - x^2)",
+            "8": "√(x^2 + 3x)",
+            "9": "√(1 + x^2 / 9)"
+          },
+          "Choose the correct answer in Exercises 10 to 11.": {
+            "10": "∫ √(a^2 - x^2) dx equals (A) x/2 √(a^2 - x^2) + a^2/2 sin^(-1) (x/a) + C (B) x/2 √(x^2 - a^2) + a^2/2 cos^(-1) (x/a) + C (C) x/2 √(a^2 - x^2) - a^2/2 cos^(-1) (x/a) + C (D) x/2 √(x^2 - a^2) - a^2/2 sin^(-1) (x/a) + C",
+            "11": "∫ √(x^2 + a^2) dx equals (A) x/2 √(x^2 + a^2) + a^2/2 log |x + √(x^2 - a^2)| + C (B) x/2 √(x^2 + a^2) - a^2/2 log |x + √(x^2 - a^2)| + C (C) x/2 √(x^2 + a^2) + a^2/2 log |x + √(x^2 + a^2)| + C (D) x/2 √(x^2 + a^2) - a^2/2 log |x + √(x^2 + a^2)| + C"
+          }
+        }
+      }
+    }
+  }
+}

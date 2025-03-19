@@ -1,0 +1,7 @@
+{
+    "Exercise EXERCISE 7.3": {
+        "Q1": "Evaluate the integral <int>x^2 dx</int> from x = 0 to x = 3",
+        "Q2": "Find the derivative of the function f(x) = log|x + 2| with respect to x",
+        "Q3": "Integrate the function g(x) = sin(ax) + cos(bx), where a and b are constants"
+    }
+}
